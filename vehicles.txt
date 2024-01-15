@@ -1,0 +1,7 @@
+Electric%Tesla Model X%Sedan%2022%60452%80000%true%true%2%1
+Motor%Lamborghini Aventador%Super Car%2018%21405%450000%false%20%Auto%4
+Electric%Tesla Cybertruck%Truck%2023%104%80000%true%true%3%5
+Motor%Toyota Supra%Race Car%1993%420405%580000%false%12%Manual%5
+Motor%Nissan Skyline GT-R%Sport Car%1998%400000%450000%false%15%Manual%1
+Motor%BMW 320%Sport Car%2019%60105%210000%false%30%Auto%5
+Electric%Tesla Model Y%Truck%2023%104%80000%true%false%2%1

@@ -1,0 +1,5 @@
+Tesla Battery%100%7.7
+Porsche Battery%79.2%11
+Opel Battery%50%7.4
+BMW Battery%83.9%9.6
+Tesla Cybertruck Battery%122.4%10.6
