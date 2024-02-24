@@ -8,25 +8,25 @@ The aim was to create some kind of a database GUI of different types of vehicles
 
 ### Initial Page:
 
-Initially, database is read and the vehicle menu is filled.
+Initially, database (txt file) is read by the program and the vehicle menu gets filled.
 
 <img src="./img/initial-page.png" width="425"/><img src="./img/vehicle-selection.png" width="425"/>
 
 ### Vehicle Info:
 
-You can see the vehicle specifications.
+You can see the vehicle specifications by clicking the button.
 
 <img src="./img/vehicle-info.png" width="425"/>
 
 ### Adding Vehicle:
 
-You should enter true value types. Also, when added, program returns to menu and show a message.
+You should enter proper value types. Also, when added, the page is closed and main menu is shown with a message.
 
 <img src="./img/error.png" width="425"/><img src="./img/added-vehicle.png" width="425"/>
 
 ### Using the Vehicle:
 
-You can use the vehicle. By specifying travel distance, gasoline or electric is consumed and database is updated.
+You can use the vehicle. By specifying travel distance; gasoline or electric is consumed and database is updated.
 
 <img src="./img/start-engine.png" width="425"/><img src="./img/use-vehicle.png" width="425"/>
 
